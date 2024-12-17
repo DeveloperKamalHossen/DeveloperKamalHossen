@@ -24,7 +24,7 @@ Hi, I am Developer Kamal Hossen. I am an expert in WordPress And Full Stack Web 
 
 Contact Me : ☎️
 ---------------------
-☛ Email: developerkamal742@gmail.com
+☛ Email: developerkamal742@gmail.com <br />
 ☛ Email: info@developerkamal.com
 ☛ Phone: 880 1717-692742 (Whats app) 
 ☛ Website: https://developerkamal.com/
