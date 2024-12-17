@@ -7,7 +7,7 @@
 ===================== <br /> </h3>
 <p align="justify">Hi, I am Developer Kamal Hossen. I am an expert in WordPress And Full Stack Web Developer . I am a skilled web designer with over 4 years of experience in the industry. I develop 400+ WordPress websites in my career. My passion lies in creating captivating website designs and implementing them through frontend development. I take pride in staying up-to-date with current design trends and leveraging my creativity to produce visually appealing and user-friendly websites. I focus on understanding your requirements, and then acting on your needs to deliver highly professional WordPress website Design.</p>
 
-<p align="center">👨‍💻 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 / 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭𝐬 :  ✔
+<p align="center"👨‍💻 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 / 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭𝐬 :  ✔ </p>
 -----------------------
  🟢 HTML, CSS. BOOTSTRAP, JAVASCRIPT, JQUERY, WordPress Bug/ Error Fixing. <br />
  🟢 WordPress & WooCommerce Expert. <br />
@@ -19,7 +19,7 @@
  🟢 Lead Generation Expert & Finding business email and contact details. <br />
  🟢 Search Engine Optimisation (SEO), On page SEO & Off page SEO Expert. <br /> 
  🟢 Website Maintenance & Website Optimization. <br /> 
- 🟢 Website speed increase & SEO. <br /> </p>
+ 🟢 Website speed increase & SEO. <br /> 
 
 
 Contact Me : ☎️ 💌
