@@ -1,7 +1,6 @@
+![Full Stack Web Developer](https://media.licdn.com/dms/image/v2/D4D16AQGkCznnxTMtpQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729775611017?e=1740009600&v=beta&t=bYF6d1gDQj1efuNMs-tiAWfJQnwcPUXHwK9QfA_7QX8)
 # Hello World 👋, <br /> I Am Developer Kamal Hossen ✅
 ## Full Stack Web Developer
-![Full Stack Web Developer](https://media.licdn.com/dms/image/v2/D4D16AQGkCznnxTMtpQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729775611017?e=1740009600&v=beta&t=bYF6d1gDQj1efuNMs-tiAWfJQnwcPUXHwK9QfA_7QX8)
-
 
 ❤💚💜 About Me : ❤💚💜 <br />
     Intro & Achievements <br />
