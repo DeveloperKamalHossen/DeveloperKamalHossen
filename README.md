@@ -1,7 +1,7 @@
 ![Full Stack Web Developer](https://media.licdn.com/dms/image/v2/D4D16AQGkCznnxTMtpQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729775611017?e=1740009600&v=beta&t=bYF6d1gDQj1efuNMs-tiAWfJQnwcPUXHwK9QfA_7QX8)
 <h1 align="center"> Hello World 👋,<br /> I Am Developer Kamal Hossen ✅ </h1> 
 <h3 align="center"> Full Stack Web Developer </h3>
-<h3 algin="center">A passionate front-end designer and developer from Bangladesh </h3>
+<h3 align="center"> A passionate front-end designer and developer from Bangladesh </h3>
 
 ❤💚💜 About Me : ❤💚💜 <br />
     Intro & Achievements <br />
