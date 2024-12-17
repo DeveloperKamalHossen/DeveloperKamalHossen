@@ -2,6 +2,8 @@
 <h1 align="center"> Hello World 👋,<br />  I Am Developer Kamal Hossen ✅ </h1> 
 <h2 align="center"> 💙 A passionate front-end designer and developer from Bangladesh 💙</h2>
 
+<span style="color: red">Kamal</span>
+
 <h3 align="center"> ❤💚💜 About Me : ❤💚💜 <br />
     Intro & Achievements <br />
 ===================== <br /> </h3>
