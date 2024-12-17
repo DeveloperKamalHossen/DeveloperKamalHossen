@@ -31,7 +31,7 @@ Contact Me : ☎️ 💌
 ☛ Facebook: https://www.facebook.com/profile.php?id=61553913771701 <br />
 ☛ YouTube: www.youtube.com/@KamalHossen-uy4f
 
-🔴🔴 Skills: 🔴🔴 <br />============ <br /> ✅ HTML <br /> ✅ CSS <br /> ✅ REACT <br /> ✅ JAVASCRIPT <br /> ✅ PHP <br /> ✅ JQUERY <br /> ✅ BOOTSTRAP <br /> ✅ WORDPRESS
+🔴🔴 Skills: 🔴🔴 <br />======💚====== <br /> 🟢 HTML <br /> 🟢 CSS <br /> 🟢 REACT <br /> 🟢 JAVASCRIPT <br /> 🟢 PHP <br /> 🟢 JQUERY <br /> 🟢 BOOTSTRAP <br /> 🟢 WORDPRESS
 
 - ✅ I’m currently working on Youtube 
 - ✅ I’m currently learning JavaScript 
