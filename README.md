@@ -31,10 +31,10 @@ Contact Me : ☎️ 💌
 ☛ Facebook: https://www.facebook.com/profile.php?id=61553913771701 <br />
 ☛ YouTube: www.youtube.com/@KamalHossen-uy4f
 
-- ✅ I’m currently working on Youtube 
+<address>- ✅ I’m currently working on Youtube 
 - ✅ I’m currently learning JavaScript 
 - ✅ I’m looking to collaborate on github 
-- ✅ Ask me about Web Development 
+- ✅ Ask me about Web Development </address>
 
 # 👁‍🗨 Connect with me!  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/DeveloperKamalHossen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kamal-hossen742//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61553913771701)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/developerkamal14101988/?next=%2F/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/KamalDeveloper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://developerkamal.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg' alt='netlify' height='40'>](https://app.netlify.com/teams/developerkamal742/sites)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vercel.svg' alt='vercel' height='40'>](https://vercel.com/developer-kamal-hossens-projects)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@developerkamal742)  
