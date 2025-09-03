@@ -40,7 +40,7 @@ Contact Me : ☎️ 💌
 - 🔎 How to reach me : Google it - "Developer Kamal Hossen"
 - 😊 Pronouns : He / His
 - ❤️ Fun Fact I Love Code.
-- 
+  
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/developkamalhossen) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/developerkamal742) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/developerkamal14101988) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamal-hossen742/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@developerkamal742) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/developerkamal/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31235782/kamal-hossen) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KamalDeveloper) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Developerkamal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:developerkamal742@gmail.com) 
 
