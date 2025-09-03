@@ -1,6 +1,11 @@
  <h1 align="center"> Hello World 👋,<br />  <em>I Am Developer Kamal Hossen</em> ✅ </h1> 
 <h2 align="center"> 💙 A passionate front-end designer and developer from Bangladesh 💙</h2>
 
+<h3 align="center"> ❤💚💜 About Me  ❤💚💜 <br />
+    Intro & Achievements ⇾ <br />
+===================== <br /> </h3>
+<p align="justify">Hi, I am Developer Kamal Hossen. I am an expert in <b><em>WordPress And Full Stack Web Developer</em></b> . I am a skilled web designer with over 4 years of experience in the industry. I develop 400+ WordPress websites in my career. My passion lies in creating captivating website designs and implementing them through frontend development. I take pride in staying up-to-date with current design trends and leveraging my creativity to produce visually appealing and user-friendly websites. I focus on understanding your requirements, and then acting on your needs to deliver highly professional WordPress website Design.<p/>
+ 
 - ✅ I’m currently working on Web Development Project
 - 🧑‍💻 I’m currently learning PHP Laravel And Vue Js
 - 👨‍💻 I’m looking to collaborate on Web Development Project
@@ -9,12 +14,7 @@
 - 🔎 How to reach me : Google it - "Developer Kamal Hossen"
 - 😊 Pronouns : He / His
 - ❤️ Fun Fact I Love Code.
-
-<h3 align="center"> ❤💚💜 About Me  ❤💚💜 <br />
-    Intro & Achievements ⇾ <br />
-===================== <br /> </h3>
-<p align="justify">Hi, I am Developer Kamal Hossen. I am an expert in <b><em>WordPress And Full Stack Web Developer</em></b> . I am a skilled web designer with over 4 years of experience in the industry. I develop 400+ WordPress websites in my career. My passion lies in creating captivating website designs and implementing them through frontend development. I take pride in staying up-to-date with current design trends and leveraging my creativity to produce visually appealing and user-friendly websites. I focus on understanding your requirements, and then acting on your needs to deliver highly professional WordPress website Design.<p/>
-
+- 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/developkamalhossen) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/developerkamal742) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/developerkamal14101988) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamal-hossen742/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@developerkamal742) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/developerkamal/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31235782/kamal-hossen) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KamalDeveloper) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Developerkamal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:developerkamal742@gmail.com) 
 
