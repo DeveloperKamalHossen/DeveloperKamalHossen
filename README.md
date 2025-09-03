@@ -5,6 +5,32 @@
     Intro & Achievements ⇾ <br />
 ===================== <br /> </h3>
 <p align="justify">Hi, I am Developer Kamal Hossen. I am an expert in <b><em>WordPress And Full Stack Web Developer</em></b> . I am a skilled web designer with over 4 years of experience in the industry. I develop 400+ WordPress websites in my career. My passion lies in creating captivating website designs and implementing them through frontend development. I take pride in staying up-to-date with current design trends and leveraging my creativity to produce visually appealing and user-friendly websites. I focus on understanding your requirements, and then acting on your needs to deliver highly professional WordPress website Design.<p/>
+
+👨‍💻 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 / 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭𝐬 :  ✔ 
+-----------------------
+ 🟢 HTML, CSS. BOOTSTRAP, JAVASCRIPT, JQUERY, WordPress Bug/ Error Fixing. <br />
+ 🟢 WordPress & WooCommerce Expert. <br />
+ 🟢 Business / Portfolio / Landing Page / WooCommerce / eCommerce Web Expert. <br />
+ 🟢 Shopify eCommerce & Dropshipping Expert. <br />
+ 🟢 Bootstrap coded responsive PSD/Figma to Wordpress / Shopify. <br />
+ 🟢 Click Funnel & Sales Funnel Expert. <br />
+ 🟢 Email Marketer, Mailer Lite/Mailchimp/ Aweber/ Get Response Email Platform Expert. <br />
+ 🟢 Lead Generation Expert & Finding business email and contact details. <br />
+ 🟢 Search Engine Optimisation (SEO), On page SEO & Off page SEO Expert. <br /> 
+ 🟢 Website Maintenance & Website Optimization. <br /> 
+ 🟢 Website speed increase & SEO. <br /> 
+
+
+
+Contact Me : ☎️ 💌
+---------------------
+☛ Email: developerkamal742@gmail.com <br />
+☛ Email: info@developerkamal.com <br />
+☛ Phone: 880 1717-692742 (Whats app) <br />
+☛ Website: https://developerkamal.com/ <br />
+☛ Facebook: https://www.facebook.com/profile.php?id=61553913771701 <br />
+☛ YouTube: www.youtube.com/@KamalHossen-uy4f
+
  
 - ✅ I’m currently working on Web Development Project
 - 🧑‍💻 I’m currently learning PHP Laravel And Vue Js
