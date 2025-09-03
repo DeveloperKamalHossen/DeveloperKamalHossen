@@ -26,7 +26,7 @@ Contact Me : ☎️ 💌
 ---------------------
 ☛ Email: developerkamal742@gmail.com <br />
 ☛ Email: info@developerkamal.com <br />
-☛ Phone: 880 1717-692742 (Whats app) <br />
+☛ Phone: +880 1717-692742 (Whats app) <br />
 ☛ Website: https://developerkamal.com/ <br />
 ☛ Facebook: https://www.facebook.com/profile.php?id=61553913771701 <br />
 ☛ YouTube: www.youtube.com/@KamalHossen-uy4f
